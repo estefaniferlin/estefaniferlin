@@ -2,7 +2,7 @@
 
 - My name is Estéfani Ferlin and I'm from Brazil 
 - I'm a nineteen-year-old Computer Science student at Federal Institute of Education Science and Technology Sul-Rio-Grandense (IFSUL) 
-- I’m currently learning more about Java, JavaScript and SAP/ABAP.
+- I’m currently learning more about Java, JavaScript and Salesforce.
 <div>
   <a href="https://github.com/estefaniferlin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=estefaniferlin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
