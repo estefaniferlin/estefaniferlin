@@ -1,7 +1,7 @@
 ### Hi there, it's Estéfani here! 👋
 
 - My name is Estéfani Ferlin and I'm from Brazil 
-- I'm a nineteen-year-old Computer Science student at Federal Institute of Education Science and Technology Sul-Rio-Grandense (IFSUL) 
+- I'm a twenty-one-year-old Computer Science student at Federal Institute of Education Science and Technology Sul-Rio-Grandense (IFSUL) 
 - I’m currently learning more about Java, JavaScript and Salesforce.
 <div>
   <a href="https://github.com/estefaniferlin">
