@@ -2,7 +2,8 @@
 
 - My name is Estéfani Ferlin and I'm from Brazil 
 - I'm a Computer Scientist graduated at Federal Institute of Education Science and Technology Sul-Rio-Grandense (IFSUL) 
-- I’m currently learning more about Python, SQL and Power BI.
+- I’m currently interested in Data Science, learning more about Machine Learning, Python, SQL and Power BI
+- I alrealy have experience in Java, ABAP and Salesforce
 <div>
   <a href="https://github.com/estefaniferlin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=estefaniferlin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
